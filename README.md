@@ -1,4 +1,14 @@
-### Hi there 👋
+#### How to reach me
+
+- 🖤 +38 (067) 581-52-97 🖤 kelenella@ukr.net
+- 🔗 This is my [LinkedIn](https://www.linkedin.com/in/kelenella/)
+ and 🔗 [my resume](https://drive.google.com/file/d/1Aqw02bxiNbfpmCDLqf9XqyL2vhqnfGAg/view?usp=sharing)
+
+![Nodejs](https://img.icons8.com/windows/2x/node-js.png)
+![react](https://img.icons8.com/offices/2x/react.png)
+![html](https://img.icons8.com/windows/2x/html-5.png)
+![webpack](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/2x/external-webpack-a-module-bundler-its-main-purpose-is-to-bundle-javascript-files-for-usage-in-a-browser-logo-shadow-tal-revivo.png)
+
 
 <!--
 **Kelenella/Kelenella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
