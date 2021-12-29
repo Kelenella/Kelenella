@@ -1,6 +1,6 @@
 #### How to reach me
 
-- 🖤 +38 (067) 581-52-97 🖤 kelenella@ukr.net
+- 🖤 kelenella@ukr.net
 - 🔗 This is my [LinkedIn](https://www.linkedin.com/in/kelenella/)
  and 🔗 [my resume](https://drive.google.com/file/d/1Aqw02bxiNbfpmCDLqf9XqyL2vhqnfGAg/view?usp=sharing)
 
